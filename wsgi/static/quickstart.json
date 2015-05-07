@@ -1,5 +1,28 @@
 [
    {
+      "updated_at": "2015-05-07T17:42:46Z", 
+      "owner": "https://github.com/mignev", 
+      "id": 35232910, 
+      "description": "OpenShift / StartApp Maintenance page during deployments", 
+      "size": 0, 
+      "forks": 0, 
+      "watchers": 0, 
+      "name": "openshift-cartridge-maintenance-page", 
+      "language": "HTML", 
+      "created_at": "2015-05-07T17:09:46Z", 
+      "stargazers": 0, 
+      "owner_type": "User", 
+      "default_app_name": "OpenShiftMaintenancePage", 
+      "cartridges": [
+         ""
+      ], 
+      "git_repo_url": "https://github.com/mignev/openshift-cartridge-maintenance-page.git", 
+      "type": "cartridge", 
+      "submitted_at": "2015-05-07T17:51:38.201957", 
+      "owner_name": "Marian Ignev", 
+      "owner_avatar_url": "https://avatars.githubusercontent.com/u/160441?v=3"
+   }, 
+   {
       "stargazers": "0", 
       "name": "Zabbix Agent", 
       "language": "Shell", 
@@ -245,7 +268,9 @@
       "git_repo_url": "https://github.com/mignev/openshift-jekyll-quickstart", 
       "description": "Jekyll is simple, blog-aware, static sites", 
       "watchers": "2", 
-      "cartridges": [ "Ruby-1.9" ], 
+      "cartridges": [
+         "Ruby-1.9"
+      ], 
       "default_app_name": "jekyll", 
       "owner": "https://github.com/mignev", 
       "owner_type": "User", 
@@ -2493,8 +2518,8 @@
       "alternate_name": "Burning Tyger Moodle", 
       "cartridges": "php-5.3, cron-1.4, mysql-5.1, phpmyadmin-4", 
       "type": "quickstart"
-   },
-   {   
+   }, 
+   {
       "updated_at": "2014-02-15T01:12:45Z", 
       "owner": "https://github.com/openshift", 
       "id": 2571617, 
@@ -2510,9 +2535,8 @@
       "alternate_name": "Joomla Example", 
       "cartridges": "php-5.3, mysql-5.1", 
       "type": "quickstart"
-   },
+   }, 
    {
-
       "updated_at": "2014-02-20T15:45:37Z", 
       "owner": "https://github.com/getupcloud", 
       "id": 16969329, 
